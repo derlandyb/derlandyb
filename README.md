@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Derlandy Belchior</h1>
 <h3 align="center">A passionate Android developer from Brazil</h3>
 
-- 🔭 I’m currently working on [CI&T](https://www.ciandt.com)
+- 🔭 I’m currently working @[CI&T](https://www.ciandt.com)
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
