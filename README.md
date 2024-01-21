@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/derlandyb](https://www.github.com/derlandyb)
+- 👨‍💻 Some of my projects are available at [https://www.github.com/derlandyb](https://www.github.com/derlandyb)
 
 - 💬 Ask me about **Android and Kotlin**
 
