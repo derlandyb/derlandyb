@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working @[CI&T](https://www.ciandt.com)
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Jetpack Compose** **Kotlin MultiPlatform** **iOS**
 
 - 👨‍💻 Some of my projects are available at [https://www.github.com/derlandyb](https://www.github.com/derlandyb)
 
